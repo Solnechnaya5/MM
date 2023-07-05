@@ -31,18 +31,18 @@ MM
 * ```npm run build``` - launch production
 * ```npm run serv``` - start live server
 
-## Установка
+## Installation
 
-Установим все необходимые пакеты из package.json
+Install all required packages from package.json
 
 ```bash
-yarn install
+npm install
 ```
 
-Запускаем
+Start the project in a browther
 
 ```bash
-yarn start
+npm run serv
 ```
 
 
