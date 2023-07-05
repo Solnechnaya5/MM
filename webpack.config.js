@@ -29,7 +29,7 @@ module.exports = {
         test: /\.(jpg|png|svg|jpeg|gif)$/,
         type: 'asset/resource',
         generator: {
-            filename: 'assets/fonts/[name][ext]'
+            filename: 'assets/imgs/[name][ext]'
           } 
     },
       {
